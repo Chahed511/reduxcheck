@@ -1,0 +1,34 @@
+.edite{
+
+  width: 400px !important;
+  height: 50px;
+  
+}
+.save{
+
+  background-color:#03c95c83  !important;
+  
+}
+.save .active{
+
+  background-color:#03c95c83  !important;
+  
+}
+.exit{
+  background-color:#ff111183 !important;
+  
+}
+.svg {
+  
+  vertical-align: left !important;
+  width: 20px !important;
+  height: 20px !important;
+}
+
+.btnedit {
+  background-color: #03c95c83 !important;
+  border-color:  #03c95c83 !important;
+  border-radius: 10px !important;
+  height: 50px !important;
+  width: 130px !important;
+}

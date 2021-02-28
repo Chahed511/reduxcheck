@@ -1,0 +1,12 @@
+body {
+  /* background-color: #ffcb91 !important; */
+  background-image: url("./Assets/task.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}

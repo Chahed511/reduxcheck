@@ -1,0 +1,78 @@
+
+
+
+.task {
+  margin: 1% 10%;
+  display: flex !important;
+  justify-content: space-between !important;
+
+}
+.listitem h1{
+font-size: 40px !important;
+color: rgb(253, 253, 253) !important;
+
+font-weight: 2000px !important;
+font-style:normal;
+}
+.btndone {
+  background-color: #97979783 !important;
+  border-color:  #97979783 !important;
+  border-radius: 10px !important;
+  height: 50px !important;
+  width: 130px !important;
+}
+.btndel {
+  background-color: #ff111183 !important;
+  border-color:  #ff111183 !important;
+  border-radius: 10px !important;
+  height: 50px !important;
+  width: 130px !important;
+}
+
+.tasktext {
+  width: 500px;
+  height: 50px;
+  background-color: rgba(211, 211, 211, 0.603) !important;
+  border-radius: 5px !important;
+  color: rgba(138, 10, 10, 0.904);
+  font-size: 20px;;
+}
+
+.delete {
+  color: white !important;
+  cursor: grab;
+}
+.choix{
+color: crimson !important;
+font-size: 50px !important;
+
+}
+.btncheck  {
+  margin: 2% 35%;
+width: 400px!important;
+height: 50px !important;
+}
+ .btn1.active{
+  background-color:#03c95c83  !important;
+}
+.btncheck .active  {
+  background-color: #ff111183 !important;
+ border-radius: 10px !important;
+ border-color:#ff111183 !important;
+ color: rgb(255, 253, 253) !important;
+ font-size: 20px !important;
+height: 50px;
+
+}
+
+.btn-primary {
+  color: #fff;
+  background-color :rgba(211, 211, 211, 0.603) !important;
+  border-color: rgba(211, 211, 211, 0.603) !important;
+  border-radius: 10px !important;
+}
+.listitem{
+
+  background-color: rgba(46, 45, 45, 0.651)!important;
+  height: 400px;
+}
